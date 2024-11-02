@@ -1,10 +1,9 @@
 
 public class Vehiculo {
-
-	public static void main(String[] args) {
-
-		System.out.print("Brrrrr... acaba de arrancar!");
-
+	public Vehiculo () {
+		System.out.println ("Brrr... acaba de arrancar!");
 	}
-
+	public static void main (String[] args) {
+		Vehiculo miMoto = new Vehiculo();
+	}
 }
