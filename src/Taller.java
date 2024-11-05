@@ -5,6 +5,7 @@ public class Taller {
 		Vehiculo miMoto = new Vehiculo ();
 
 		System.out.println("HolaMundo");
+		Syste
 	}
 
 }
